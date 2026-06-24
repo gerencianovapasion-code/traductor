@@ -1,0 +1,22 @@
+{
+  "name": "yaiza-translate-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Capacitor wrapper for Yaiza Translate (Google Play + App Store)",
+  "scripts": {
+    "add:android": "cap add android",
+    "add:ios": "cap add ios",
+    "sync": "cap sync",
+    "open:android": "cap open android",
+    "open:ios": "cap open ios"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/ios": "^6.0.0",
+    "@capacitor/splash-screen": "^6.0.0"
+  }
+}
