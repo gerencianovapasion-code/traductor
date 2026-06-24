@@ -3,7 +3,7 @@
   "appName": "Yaiza Translate",
   "webDir": "www",
   "server": {
-    "url": "https://yaizatranslate.grupoyaiza.es/translate",
+    "url": "https://translate.grupoyaiza.es/translate",
     "cleartext": false,
     "androidScheme": "https"
   },

@@ -1,4 +1,4 @@
-# Yaiza Translate — `yaizatranslate.grupoyaiza.es`
+# Yaiza Translate — `translate.grupoyaiza.es`
 
 Plataforma de **traducción de audio en tiempo real**: detecta el idioma que se está
 hablando (desde cualquier fuente de sonido) y lo reproduce con voz en el idioma que

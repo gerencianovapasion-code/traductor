@@ -15,7 +15,7 @@ comparten el mismo código y se actualizan a la vez.
 ```bash
 cd mobile
 npm install
-mkdir -p www && echo "<!doctype html><meta http-equiv=refresh content=0;url=https://yaizatranslate.grupoyaiza.es/translate>" > www/index.html
+mkdir -p www && echo "<!doctype html><meta http-equiv=refresh content=0;url=https://translate.grupoyaiza.es/translate>" > www/index.html
 
 npm run add:android      # crea el proyecto Android
 npm run add:ios          # crea el proyecto iOS (en Mac)
